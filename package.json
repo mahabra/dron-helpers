@@ -1,6 +1,6 @@
 {
   "name": "dron-helpers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Operators for using in dron generators",
   "main": "helpers.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/morulus/dron-helpers/issues"
   },
-  "homepage": "https://github.com/morulus/dron-helpers#readme"
+  "homepage": "https://github.com/morulus/dron-helpers#readme",
+  "dependencies": {
+    "dron-constants": "github:morulus/dron-constants"
+  }
 }
