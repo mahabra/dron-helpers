@@ -1,6 +1,6 @@
 {
   "name": "dron-helpers",
-  "version": "0.0.2",
+  "version": "0.0.2-1",
   "description": "Operators for using in dron generators",
   "main": "helpers.js",
   "scripts": {
